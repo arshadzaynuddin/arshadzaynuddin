@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=arshadzaynuddin&color=orange)
 
-[![Arshad Zayn, I-BUILD-THINKS-ON-INTERNET](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I-BUILD-THINKS-ON-INTERNET&title=Arshad%20Zayn)](https://pimp-my-readme.webapp.io)
 
 ## &#x1f4c8; GitHub Stats
 
