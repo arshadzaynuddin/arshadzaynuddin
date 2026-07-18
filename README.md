@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadzaynuddin&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&background=1A2B34" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arshadzaynuddin&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&background=1A2B34" alt="GitHub Streak" />
 </p>
 
 ## &#x1f4ec; Connect With Me
